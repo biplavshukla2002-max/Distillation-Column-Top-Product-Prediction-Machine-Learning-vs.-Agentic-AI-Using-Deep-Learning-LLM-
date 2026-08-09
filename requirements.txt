@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+keras
+google-genai
+dwsim version 9.O
