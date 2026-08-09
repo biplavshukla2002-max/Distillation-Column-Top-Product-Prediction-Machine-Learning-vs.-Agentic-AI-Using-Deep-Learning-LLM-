@@ -1,0 +1,2 @@
+# Distillation-Column-Top-Product-Prediction-Machine-Learning-vs.-Agentic-AI-Using-Deep-Learning-LLM-
+To develop a system for distillation-column top-product prediction by comparing conventional Machine Learning models with a Deep Learning-based Agentic AI approach, where an AI agent uses the trained Deep Learning model for prediction and an LLM provides process recommendations based on the predicted results.
