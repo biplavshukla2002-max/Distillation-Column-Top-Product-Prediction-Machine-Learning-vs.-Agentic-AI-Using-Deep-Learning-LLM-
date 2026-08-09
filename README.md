@@ -35,6 +35,7 @@ Gemini LLM Recommendations
 - Scikit-learn
 - TensorFlow/Keras
 - Google Gemini API
+- DWSIM VERSION 9.O
 
 ## Dataset
 
